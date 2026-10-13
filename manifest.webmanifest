@@ -1,0 +1,16 @@
+{
+  "name": "Budget en enveloppes",
+  "short_name": "Budget",
+  "description": "Répartis ton salaire en enveloppes : dépenses du mois, dépenses annuelles, épargne et objectifs.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef1f4",
+  "theme_color": "#2f5d8a",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
